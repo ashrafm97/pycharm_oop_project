@@ -35,11 +35,12 @@ class Dog():
         self.age = 7
         self.paws = 4
         self.fur = 'black and grey'
+        self.fav_food = 'Steak'
 # setting attributes 'name' to 'instances' of the Dog class... 'name is hardcoded now to be Max'
 
 
 # this is a 'method' that can be used by the 'instance' Dog
-    def bark(self, creature = " "):
+    def voice(self, creature = " "):
         return 'woof, woof! I see you, damn ' + creature
 # polymorphism, by default creature is nothing
 

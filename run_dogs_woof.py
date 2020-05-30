@@ -10,7 +10,7 @@ max_dog_instance = Dog()
 
 # call the method .bark() on the object
 
-print(max_dog_instance.bark("cat"))
+print(max_dog_instance.voice("cat"))
 print(max_dog_instance.eat())
 print(max_dog_instance.fetch())
 print(max_dog_instance.tail())
@@ -23,7 +23,7 @@ print(max_dog_instance.eat())
 
 #max saw the postman..... he is very concerned!
 
-print(max_dog_instance.bark("LETTER MAN ! >:) "))
+print(max_dog_instance.voice("LETTER MAN ! >:) "))
 
 
 ringo_dog_instance = Dog("Ringo")
