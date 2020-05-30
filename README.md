@@ -16,7 +16,7 @@ So in the above example, .eat_cookie() could be a method inside the class Cookie
 
 - Instance
 - syntax
-- Convention
+- Convention - capitalise the first letter of Classes, like Dog over dog
 - 4 Pillars ...
 - Abstraction
 - good naming conventions
